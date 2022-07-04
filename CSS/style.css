@@ -1,0 +1,36 @@
+body{
+    background-color: #fff;
+}
+html{
+    font-size: 62.5%;
+}
+.header{
+    display: flex;
+    vertical-align: middle;
+    float: right;
+}
+.header .gmail{
+    margin: 1rem 2rem;
+}.header .görseller{
+    margin:1rem;
+    margin-right: 2rem;
+}
+.header .gmail a,
+.header .görseller a{
+    font-size: 1.5rem;
+    color: rgba(0,0,0,.87);
+    text-decoration: none;
+}
+.header img{
+    height: 2rem;
+    margin-top: 1rem;
+    margin-right: 2rem;
+}
+.header .foto{
+    margin: auto;
+    height: 3rem;
+    width: 3rem;
+}
+.clear{
+    clear: both;
+}
